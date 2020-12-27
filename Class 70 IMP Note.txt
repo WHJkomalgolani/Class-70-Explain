@@ -1,0 +1,3 @@
+Teacher Activity needs to be performed in  app.js file
+
+Student Activity needs to be performed in BookTransactionScreen.js file.

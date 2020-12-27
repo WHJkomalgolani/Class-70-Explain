@@ -1,0 +1,5 @@
+Search for sample barcode on google.
+Use any sample to test.
+
+Click on scan buttons.
+Scan sample code will show that number in phone.
